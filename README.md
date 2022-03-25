@@ -1,0 +1,3 @@
+# Things to do
+
+1. In order to use Github actions, we'll need to clone the repo and create the table from the jsonnet files, since we can't access kubectl from Github...
